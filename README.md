@@ -1,1 +1,0 @@
-# AI-Based-Diabetes-Prediction-
